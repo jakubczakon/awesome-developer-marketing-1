@@ -216,6 +216,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The API Landscape](https://apilandscape.platformable.com/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Scaling DevTools](https://podcast.bitreach.io/)
+- [Spotify playlist by Developer Markepear](https://open.spotify.com/playlist/58WTT1mkiaawmNO34fNuBZ?si=07f15e1d6b254ad9)
 
 # Twitter Accounts
 
